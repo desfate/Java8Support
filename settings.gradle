@@ -1,0 +1,3 @@
+rootProject.name='Java8Support'
+include ':app'
+include ':j8s'
