@@ -7,5 +7,8 @@
 注：Stream 相关还比较复杂  占时还未加入  
    Optional还未加入
    
+   //发现有牛人已经支持stream了
+   https://github.com/retrostreams/android-retrostreams
+   
    
 准备加入builder模式 方便链式操作
